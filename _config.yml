@@ -1,3 +1,2 @@
-jekyll_remote_theme: poole/hyde
+remote_theme: poole/hyde
 
-theme: jekyll-theme-dinky
